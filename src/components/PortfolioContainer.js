@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
-import Home from './pages/Aboutme';
-import About from './pages/Portfolio';
-import Blog from './pages/Resume';
+import Aboutme from './pages/Aboutme';
+import Portfolio from './pages/Portfolio';
+import Resume from './pages/Resume';
 import Contact from './pages/Contact';
-//import Header and Footer 
+import Header from './Header';
+import Footer from './Footer';
+
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -13,13 +15,13 @@ export default function PortfolioContainer() {
   //Conditional rendering: checks value of current page and return the appropriate component to return the React Component that renders the appropriate page
   const renderPage = () => {
     if (currentPage === 'About me') {
-      return <Home />;
+      return <Aboutme />;
     }
-    if (currentPage === '') {
-      return <About />;
+    if (currentPage === 'Portfolio') {
+      return <Portfolio />;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Resume') {
+      return <Resume />;
     }
     return <Contact />;
   };
