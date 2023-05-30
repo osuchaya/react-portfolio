@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.af7cf5a8.css",
+    "main.js": "/react-portfolio/static/js/main.5f4d50be.js",
+    "static/media/baristaproject.png": "/react-portfolio/static/media/baristaproject.2652988dfdf7096e5f5d.png",
+    "static/media/jamfoliopage.png": "/react-portfolio/static/media/jamfoliopage.13c144b5bbb9ba4a39ae.png",
+    "static/media/first-portfolio.png": "/react-portfolio/static/media/first-portfolio.0184bb46c29b7dcf8e11.png",
+    "static/media/workdayscheduler.png": "/react-portfolio/static/media/workdayscheduler.b32cb0fb8255b5dfe85c.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.af7cf5a8.css.map": "/react-portfolio/static/css/main.af7cf5a8.css.map",
+    "main.5f4d50be.js.map": "/react-portfolio/static/js/main.5f4d50be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af7cf5a8.css",
+    "static/js/main.5f4d50be.js"
+  ]
+}
