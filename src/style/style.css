@@ -1,0 +1,17 @@
+.projectcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.resume-container {
+    margin-left: 5%;
+    margin-top:3%;
+}
+.contactform {
+    margin: 5% 5% 5% 5%;
+
+}
+
+
+

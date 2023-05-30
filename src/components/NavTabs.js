@@ -34,7 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Resume
         </a>
       </li>
       <li className="nav-item">
