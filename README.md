@@ -8,8 +8,8 @@ No starter code was given for this project.
 ## Technology Used
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
-| React   | [https://react.dev] | (https://react.dev) | 
-| CSS | [https://developer.mozilla.org/en-US/docs/Web/CSS] | (https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| React   | (https://react.dev) | 
+| CSS |  (https://developer.mozilla.org/en-US/docs/Web/CSS) |
 
 ## Description
 This application is part of React module where React, which is a free, open-source front-end JavaScript library developed by Facebook (Meta), is used to create a single-page web application portfolio. The purpose of this is to use the latest technology which is React and showcase the skill in using it. React is a responsive front-end technology that utilizes a rendering components to the Document Object Model (DOM). React allows rendering of and iteration of components through mapping and returning of JavaScript Expression (JSX).
