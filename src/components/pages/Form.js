@@ -105,7 +105,7 @@ function Form() {
             Message:{" "}
           </label>
           <div class="col-sm-10">
-            <input
+            <textarea rows="4" cols="50"
               value={message}
               name="message"
               onChange={handleInputChange}

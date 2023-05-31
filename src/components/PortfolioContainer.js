@@ -8,6 +8,7 @@ import Header from './Header';
 import Footer from './Footer';
 
 
+
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Aboutme');
 
@@ -30,7 +31,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className="portfoliocontainer d-flex flex-column">
      
       <Header/>
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />

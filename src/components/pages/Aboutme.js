@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Aboutme() {
   return (
-    <div>
+    <div class="aboutmecontainer">
       <h1>About me</h1>
       <p>
         I am currently in my 10th week of University of California Berkeley Web Development (coding) bootcamp.

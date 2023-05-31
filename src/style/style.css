@@ -1,8 +1,11 @@
 .projectcontainer {
-    display: flex;
+    /* display:flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
+    align-items: center;*/
+
+    margin-top: 5em;
+    background-color: pink;
+    width: 100%;
 }
 .resume-container {
     margin-left: 5%;
@@ -13,5 +16,48 @@
 
 }
 
+.projectcard {
+margin: 3rem;
 
+}
 
+.portfol {
+    margin: 7%;
+    align-items: center;
+}
+.portfoliocontainer{
+    background-image: url("/Users/suchayaosatis/Desktop/react-portfolio/public/rose.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    min-height: 100vh;
+}
+body{
+    min-height: 100vh;
+}
+.wholepage {
+    background-image: url("/Users/suchayaosatis/Desktop/react-portfolio/public/rose.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    min-height: 100vh;
+
+}
+p {
+    line-height: 190%;
+}
+
+.aboutmecontainer {
+    margin: 8%;
+    border-radius: 4px;
+    border-color: palevioletred;
+}
+.nav-tabs {
+    display: flex;
+    justify-content: flex-end
+    ;
+}
+.footer{
+    margin-top:auto;
+    bottom: 0;
+}
