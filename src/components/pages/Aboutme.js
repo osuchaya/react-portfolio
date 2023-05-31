@@ -1,9 +1,10 @@
 import React from 'react';
-
+import avatar from '../../assets/avatar.png';
 export default function Aboutme() {
   return (
     <div class="aboutmecontainer">
       <h1>About me</h1>
+      <img className="avatar" src={avatar} width="250px" alt="my AI-generated avatar"></img>
       <p>
         I am currently in my 10th week of University of California Berkeley Web Development (coding) bootcamp.
         I hope to graduate soon and be practicing on the knowledge and skills while exploring the industry further.

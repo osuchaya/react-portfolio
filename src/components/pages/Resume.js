@@ -5,7 +5,7 @@ export default function Resume() {
     <div className="resume-container">
       <h1>Resume</h1>
       <p>
-      <a target="_blank" href="https://drive.google.com/file/d/10Jp9xokzXhlM19_ZIbjwxYcvTkpmXJiy/view?usp=drive_link">Download my resume</a>
+      Click here to <a target="_blank" href="https://drive.google.com/file/d/10Jp9xokzXhlM19_ZIbjwxYcvTkpmXJiy/view?usp=drive_link">Download my resume</a>
       <h3>Skills</h3>
       <ol>
         <li>HTML/CSS</li>

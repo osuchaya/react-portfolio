@@ -117,7 +117,7 @@ function Form() {
         </div>
         <div class="form-group row">
             <div class="col-sm-10">
-          <button type="button" class="btn btn-dark" onClick={handleFormSubmit}>
+          <button type="button" class="btn btn-dark col-sm-2" onClick={handleFormSubmit}>
             Submit
           </button>
           </div>
