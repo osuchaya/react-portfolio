@@ -6,7 +6,7 @@ function Project(props) {
 
   return (   
 
-<Card style={{ width: '18rem', height: '20rem' }} className="projectcard">
+<Card style={{ width: '18rem', height: '23rem' }} className="projectcard">
       <Card.Img variant="top" src={props.image} />
       <Card.Body>
         <Card.Title><a href={props.link}>{props.name}</a></Card.Title>

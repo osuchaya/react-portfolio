@@ -14,22 +14,22 @@ export default function Portfolio() {
       name: "Barista",
       link: "https://jonnyboy808.github.io/barista",
       github: "https://github.com/jonnyboy808/barista",
-      description: "Group Project 1: app that helps you find coffee shop in any city",
+      description: "Group Project1: app that helps you find coffee shop in any city",
       image: barista
     },
     {
       name: "Jamfolio",
       link: "https://jeppjeppjepp0.github.io/jamfolio",
       github: "https://github.com/jeppjeppjepp0/jamfolio",
-      description: "Group Project 2: share your musical pieces with fellow musicians",
+      description: "Group Project2: share your musical pieces with fellow musicians",
       image: jamfolio
     },
     {
       name: "Actio",
       link: "https://actio-app.herokuapp.com/",
       github: "https://github.com/eschindev/activity-planner",
-      description: "Group Project 3: get your activity on!",
-      image: actio,
+      description: "Group Project3: get your activity on",
+      image: actio
     },
     {
       name: "First portfolio",
